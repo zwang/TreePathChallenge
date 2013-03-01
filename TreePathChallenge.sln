@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreePathChallenge", "TreePathChallenge\TreePathChallenge.csproj", "{A5B0788A-E69C-4A8E-B2A9-0FF9B4A587E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B0788A-E69C-4A8E-B2A9-0FF9B4A587E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B0788A-E69C-4A8E-B2A9-0FF9B4A587E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B0788A-E69C-4A8E-B2A9-0FF9B4A587E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B0788A-E69C-4A8E-B2A9-0FF9B4A587E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TreePathChallenge\TreePathChallenge.csproj
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
